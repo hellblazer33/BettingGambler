@@ -16,7 +16,7 @@ public static class Gambler
 
     //1 $ bet win or loose
 
-    public static void FirstGambling(int totalStakeMoney,int perBetMoney)
+    public static void firstGambling(int totalStakeMoney,int perBetMoney)
     {
         Random random = new Random();
         int gamble = random.Next(0, 2);
