@@ -1,1 +1,0 @@
-﻿Gambler.initialBetting();
