@@ -10,7 +10,7 @@ public static class Gambler
     {
         int totalStakeMoney = 100;
         int perBetMoney = 1;
-        FirstGambling(totalStakeMoney,perBetMoney);
+        
         
     }
 
